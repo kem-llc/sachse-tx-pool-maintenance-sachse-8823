@@ -1,0 +1,327 @@
+{
+  "business": {
+    "name": "Sachse, TX Pool Maintenance",
+    "shortName": "Sachse Pool Maintenance",
+    "tagline": "Crystal Clear Pools, Every Visit",
+    "niche": "Pool Service",
+    "phone": "(972) 512-8823",
+    "address": "7340 S State Hwy 78, Sachse, TX 75048",
+    "city": "Sachse, TX",
+    "hours": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 2:00 PM",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Sachse, TX Pool Maintenance | Expert Pool Service Near You",
+    "description": "Sachse Pool Maintenance offers reliable weekly pool cleaning, chemical balancing, and repairs in Sachse, TX. Trusted by homeowners. Free quotes. Call (972) 512-8823."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Sachse's Trusted Pool Service",
+      "headline": "Your Pool, Perfectly Maintained",
+      "subheadline": "Professional weekly pool cleaning and chemical balancing so you can enjoy a sparkling pool without the hassle.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "See Our Services"
+    },
+    "stats": [
+      {
+        "value": "150+",
+        "label": "Pools Maintained"
+      },
+      {
+        "value": "4.8",
+        "label": "Star Rating"
+      },
+      {
+        "value": "5+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "99%",
+        "label": "Satisfaction Rate"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Weekly Pool Cleaning",
+        "title": "Hassle-Free Pool Care",
+        "body": "We handle the dirty work so you can dive into a clean, safe pool every week. Our trained technicians provide thorough skimming, brushing, and vacuuming.",
+        "bullets": [
+          "Skimming and surface debris removal",
+          "Brushing walls and tile line",
+          "Vacuuming pool floor",
+          "Emptying skimmer and pump baskets"
+        ],
+        "reverse": false,
+        "cardLabel": "Quick Fact",
+        "cardTitle": "Consistent Schedule",
+        "cardBody": "Same day each week, no surprises. We work around your schedule."
+      },
+      {
+        "eyebrow": "Chemical Balancing",
+        "title": "Perfect Water Chemistry",
+        "body": "Our precise chemical testing and adjustments keep your water clear, safe, and comfortable. No more guessing or store trips.",
+        "bullets": [
+          "pH, alkalinity, and chlorine testing",
+          "Custom chemical additions",
+          "Algae prevention treatments",
+          "Water clarity optimization"
+        ],
+        "reverse": true,
+        "cardLabel": "Safety First",
+        "cardTitle": "Health-Approved Levels",
+        "cardBody": "We follow CDC guidelines for safe swimming water."
+      }
+    ],
+    "whyTitle": "Why Choose Us",
+    "whyChooseUs": [
+      {
+        "title": "Local Expertise",
+        "description": "We know Sachse's water and weather patterns, so your pool gets exactly what it needs."
+      },
+      {
+        "title": "Reliable Service",
+        "description": "We show up on time, every time. Consistent care you can count on."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. You'll know the cost upfront with our clear quotes."
+      },
+      {
+        "title": "Friendly Technicians",
+        "description": "Our team is trained, courteous, and respectful of your property."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They keep our pool sparkling clean all summer. Very professional and punctual.",
+        "author": "Mike R.",
+        "role": "Sachse homeowner"
+      },
+      {
+        "quote": "I love not having to worry about chemicals anymore. They test and balance everything perfectly.",
+        "author": "Jessica T.",
+        "role": "Sachse resident"
+      },
+      {
+        "quote": "After trying a few pool services, this one stands out for reliability and communication.",
+        "author": "David L.",
+        "role": "Sachse customer"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for a Perfect Pool?",
+      "subheadline": "Contact us today for a free, no-obligation quote.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (972) 512-8823"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer comprehensive pool maintenance services tailored to your needs. From weekly cleaning to full repairs, our team has you covered."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Weekly Pool Cleaning",
+      "shortDescription": "Regular skimming, brushing, vacuuming, and filter care.",
+      "longDescription": "Our weekly service includes everything needed to keep your pool pristine. We skim debris, brush walls, vacuum the floor, empty baskets, and inspect equipment. You get a clean pool without lifting a finger.",
+      "benefits": [
+        "Saves you time and effort",
+        "Extends pool equipment life",
+        "Prevents algae and stains",
+        "Consistent results every week"
+      ],
+      "process": [
+        {
+          "title": "Arrival & Inspection",
+          "description": "We check water level, equipment, and overall condition."
+        },
+        {
+          "title": "Cleaning",
+          "description": "Skim, brush, vacuum, and empty baskets thoroughly."
+        },
+        {
+          "title": "Final Check",
+          "description": "We ensure everything is working and leave your pool ready to enjoy."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a cleaning visit take?",
+          "answer": "Typically 30-45 minutes depending on pool size and condition."
+        },
+        {
+          "question": "Do I need to be home?",
+          "answer": "No, we can access your pool area with prior arrangements."
+        }
+      ],
+      "slug": "weekly-pool-cleaning"
+    },
+    {
+      "icon": "02",
+      "title": "Chemical Balancing",
+      "shortDescription": "Precise testing and adjustment for safe, clear water.",
+      "longDescription": "We test your pool water for pH, alkalinity, chlorine, and other levels. Then we add the right chemicals to bring everything into balance. No more store trips or guesswork.",
+      "benefits": [
+        "Safe swimming water",
+        "Prevents eye/skin irritation",
+        "Protects pool surfaces",
+        "Keeps water crystal clear"
+      ],
+      "process": [
+        {
+          "title": "Water Test",
+          "description": "We take a sample and test with professional equipment."
+        },
+        {
+          "title": "Chemical Addition",
+          "description": "We add precise amounts of chlorine, pH adjusters, and algaecides."
+        },
+        {
+          "title": "Re-test & Confirm",
+          "description": "We verify levels are perfect before leaving."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often do you test the water?",
+          "answer": "Every visit, we test and adjust as needed."
+        },
+        {
+          "question": "What if my pool has algae?",
+          "answer": "We treat it with algaecide and may recommend extra brushing."
+        }
+      ],
+      "slug": "chemical-balancing"
+    },
+    {
+      "icon": "03",
+      "title": "Filter Cleaning & Maintenance",
+      "shortDescription": "Keep your filtration system running efficiently.",
+      "longDescription": "We clean or backwash your filter, inspect cartridges, and ensure optimal flow. A clean filter means better water quality and lower energy costs.",
+      "benefits": [
+        "Improves water circulation",
+        "Reduces energy consumption",
+        "Extends filter life",
+        "Prevents equipment strain"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check filter pressure and condition."
+        },
+        {
+          "title": "Cleaning",
+          "description": "Backwash sand filters or clean cartridge elements."
+        },
+        {
+          "title": "Reassembly & Test",
+          "description": "We reassemble and verify proper operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should filters be cleaned?",
+          "answer": "Every 4-6 weeks depending on usage and debris."
+        },
+        {
+          "question": "Do you replace filter cartridges?",
+          "answer": "Yes, we can replace worn cartridges for an additional fee."
+        }
+      ],
+      "slug": "filter-cleaning-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "Pool Repairs & Troubleshooting",
+      "shortDescription": "Expert diagnosis and repair for pumps, heaters, and more.",
+      "longDescription": "When something breaks, we're here to fix it. Our technicians can diagnose and repair pumps, motors, heaters, timers, and plumbing issues. We also offer equipment replacements.",
+      "benefits": [
+        "Quick turnaround",
+        "Expert diagnosis",
+        "Quality parts",
+        "Warranty on repairs"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect the issue and explain what's needed."
+        },
+        {
+          "title": "Repair",
+          "description": "We fix or replace faulty components efficiently."
+        },
+        {
+          "title": "Testing",
+          "description": "We run the system to ensure everything works."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer emergency repairs?",
+          "answer": "Yes, we prioritize urgent issues to get your pool back online."
+        },
+        {
+          "question": "What brands do you service?",
+          "answer": "We work with all major brands including Hayward, Pentair, and Jandy."
+        }
+      ],
+      "slug": "pool-repairs-troubleshooting"
+    }
+  ],
+  "about": {
+    "headline": "Your Local Pool Care Experts",
+    "mission": "To provide Sachse homeowners with reliable, high-quality pool maintenance that makes pool ownership effortless and enjoyable.",
+    "story": [
+      "Sachse Pool Maintenance was founded by a team of pool enthusiasts who saw a need for dependable, local pool care. We started small, serving a handful of neighbors, and grew through word-of-mouth. Our commitment to punctuality, transparency, and excellence has made us a trusted name in Sachse.",
+      "Today, we maintain over 150 pools weekly. We invest in ongoing training and use top-tier equipment to deliver consistent results. Every technician is background-checked and trained to treat your property with respect. We're proud to be part of the Sachse community."
+    ],
+    "highlight": {
+      "stat": "150+",
+      "label": "Pools Maintained Weekly"
+    },
+    "coreValues": [
+      {
+        "title": "Reliability",
+        "description": "We show up when we say we will."
+      },
+      {
+        "title": "Quality",
+        "description": "We never cut corners on service."
+      },
+      {
+        "title": "Transparency",
+        "description": "Clear communication and honest pricing."
+      },
+      {
+        "title": "Community",
+        "description": "We support local and treat every customer like a neighbor."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready for a cleaner pool? Fill out the form or call us.",
+    "primaryCta": "Call (972) 512-8823",
+    "formCta": "Request a Free Quote",
+    "serviceAreas": [
+      "Sachse, TX",
+      "Wylie, TX",
+      "Murphy, TX",
+      "Garland, TX",
+      "Rowlett, TX"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pool Service",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9725128823",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
